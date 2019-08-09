@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+# build settings
+remote_theme: https://github.com/joshgerdes/jekyll-uno
